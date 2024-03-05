@@ -1,1 +1,3 @@
-fodasi
+<?php
+    header("Location: banana.php")
+?>
