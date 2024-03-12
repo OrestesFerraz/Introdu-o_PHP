@@ -13,8 +13,6 @@
 
     <?php
         echo "helo world";
-
-        header ('location :/banana');
     ?>
 </body>
 </html>
