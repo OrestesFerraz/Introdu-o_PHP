@@ -10,7 +10,7 @@
     <h1>
         helo world
     </h1>
-
+    <a href="fruta/">fruta/</a>
     <?php
         echo "helo world";
     ?>
